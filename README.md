@@ -7,7 +7,8 @@ This repository provides step-by-step instructions for setting up an ETL pipelin
 
 ## Architecture
 
-![ETL Pipeline Architecture](#) <!-- Replace with an actual architecture diagram -->
+![image](https://github.com/user-attachments/assets/e3906da8-fa83-4849-9671-7634ba86bb7c)
+
 
 1. **Bronze Layer**: Azure Data Lake for storing raw data.
 2. **Silver Layer**: Databricks notebooks to process and clean the data.
